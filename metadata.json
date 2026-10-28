@@ -1,0 +1,6 @@
+{
+  "name": "RoadWatch AI - Sustainable Road Maintenance",
+  "description": "AI-powered civic platform optimizing sustainable road maintenance, pothole & crack detection, material waste reduction, and civic repair tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
